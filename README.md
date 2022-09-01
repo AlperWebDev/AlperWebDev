@@ -1,4 +1,4 @@
-Hi 👋 My name is Alper Uyar
+Hi 👋 My name is Alper
 ===========================
 
 Front-End Developer

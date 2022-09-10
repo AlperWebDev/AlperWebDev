@@ -7,7 +7,7 @@ Front-End Developer
 * 🌍  I'm based in Istanbul,Turkey
 * 🖥️  See my portfolio at [MyPortfolioWebsite](http://alperwebdev.github.io/)
 * ✉️  You can contact me at [alperwebdev@gmail.com](mailto:alperwebdev@gmail.com)
-* 🧠  I'm learning React JS
+* 🧠  I'm learning Swift
 
 ### Skills
 

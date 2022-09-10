@@ -1,7 +1,7 @@
 Hi 👋 I'm Alper
 ===========================
 
-IOS Developer and Interested in Front-End Developer 
+IOS && Front-End Developer :)
 -------------------
 
 * 🌍  I'm based in Istanbul,Turkey

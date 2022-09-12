@@ -6,7 +6,7 @@ IOS & Front-End Developer :)
 
 * 🌍  I'm based in Istanbul,Turkey
 <!-- * 🖥️  See my portfolio at [MyPortfolioWebsite](http://alperwebdev.github.io/)-->
-* ✉️  You can contact me at [alperwebdev@gmail.com](mailto:alperuyar.dev@gmail.com)
+* ✉️  You can contact me at [alperuyar.dev@gmail.com](mailto:alperuyar.dev@gmail.com)
 * 🧠  I'm learning Swift
 
 ### Skills

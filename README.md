@@ -1,7 +1,6 @@
 Hi 👋 I'm Alper
 ===========================
-
-IOS & Front-End Developer :)
+Game Developer :)
 -------------------
 
 * 🌍  I'm based in Istanbul,Turkey

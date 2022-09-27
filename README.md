@@ -7,7 +7,7 @@ Game Developer :)
 
 * ✉️  You can contact me at [alperuyar.dev@gmail.com](mailto:alperuyar.dev@gmail.com)
 
-* 🧠  I'm learning Swift
+* 🧠  I'm learning Unity 2D
 
 <!-- * 🖥️  See my portfolio at [MyPortfolioWebsite](http://alperwebdev.github.io/)-->
 

@@ -1,6 +1,6 @@
 Hi 👋 I'm Alper
 ===========================
-Game Developer :)
+Game Developer Soon ;)
 -------------------
 
 * 🌍  I'm based in Istanbul,Turkey
